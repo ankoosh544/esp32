@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../source/repos/SecureBLE-master/SecureBLE-master"
+		},
+		{
+			"name": "BLE Server",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
