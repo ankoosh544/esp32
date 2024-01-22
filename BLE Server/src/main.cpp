@@ -19,6 +19,7 @@
    A connect hander associated with the server starts a background task that performs notification
    every couple of seconds.
 */
+#include "header.h"
 #include <Arduino.h> 
 #include <BLEDevice.h>
 #include <BLEServer.h>
